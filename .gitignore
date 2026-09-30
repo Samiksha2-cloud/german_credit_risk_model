@@ -1,0 +1,14 @@
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Colab / Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets (just in case)
+*.env
+kaggle.json
