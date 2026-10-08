@@ -14,3 +14,4 @@ applicant attributes (financial history, employment, demographics).
 
 ## Project log
 - [Part 1 — Setup and EDA](part1_eda/README.md)
+- - [Part 2 — Feature Engineering](part2_feature_engineering/README.md)
